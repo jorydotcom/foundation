@@ -3,35 +3,21 @@ FOCUS Operating Procedures
 
 # 1\. Introduction
 
-  This document provides the working procedures used by the FOCUS Project. 
+  This document provides the working procedures used by the  Joint Development Foundation Projects, LLC,  FinOps Open Cost and Usage Specification (FOCUS) Project. 
 
 # 2\. Governance
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products must be Members of FOCUS.
+  All contributors to the FOCUS work products must sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
   Membership is between FOCUS Project and the Employer of any contributing person.
 
-### 2.0.1 Membership Levels
-
-  There are three Membership levels:
-
-  * Steering Members
-  * General Members (Currently not in use)
-  * Contributing Members
-
-### 2.0.2 Membership Requirements
-
-  Steering Members of FOCUS are organizations that have been designated by the FinOps Foundation Governing Board as members and have signed the FOCUS Project CLA. 
-  General Members of FOCUS are currently not in use.
-  All organizations after the initial Members join as Contributing Members of FOCUS. Contributing Members are organizations that must sign the FOCUS Project CLA to become members.
-
-## 2.2 Organization Structure
+## 2.1 Organization Structure
 
 ![Org Structure](images/org_structure.png?raw=true "Org Structure")
 
-### 2.2.1 Steering Committee
+### 2.1.1 Steering Committee
   
   One of the more important duties of the Steering Committee (SC) is the approval of the Specifications and other works produced as a consensus product of the FOCUS Working Groups.
 
@@ -47,7 +33,7 @@ FOCUS Operating Procedures
 
   The votes are taken only by the appointed representatives of the Steering Committee. Minutes of the meeting are taken to record the attendance, votes and their outcomes.
 
-### 2.2.2 Steering Committee Approval
+### 2.1.2 Steering Committee Membership Criteria
 
   The FinOps Foundation Governing Board has set the following criteria for the FOCUS Project Steering Committee make up.
 
@@ -68,7 +54,7 @@ FOCUS Operating Procedures
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
 
-  Both the FinOps Foundation and the FOCUS Project have “working groups”. There may be people in FOCUS working groups that will also be in FinOps Foundation working groups, so to keep them straight, we’ll use the term FOCUS Working Group or FOCUS Group, or the abbreviation FG to refer to the FOCUS working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group" will be used to avoid having to redline contract documents which already use this term. 
+  Both the FinOps Foundation and the FOCUS Project have “working groups”. There may be people in FOCUS working groups that will also be in FinOps Foundation working groups, so to keep them straight, we’ll use the term FOCUS Working Group or FOCUS Group, or the abbreviation FG to refer to the FOCUS working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group" will be used. 
 
   Each FOCUS Group will generate its own Charter, with its own Scope and deliverables. Typically each FOCUS Group will work in its own Github repository or in a previously established Github repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
 
@@ -83,15 +69,13 @@ FOCUS Operating Procedures
   * FOCUS Group Chair(s)
   * Support Staff
 
-### 2.3.1 FOCUS Group members (FG member)
+### 2.3.1 FOCUS Group participants (FG member)
 
-  An FG member is any individual creating content or commenting on an issue or pull request.
+  An FG participant is any individual creating content or commenting on an issue or pull request.
 
-  FG members MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request
+  FG participants MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, Contributing, and Release Planning documents) before attempting to submit an Issue or Pull Request.
 
-  FG members are not allowed to fork a project to build a feature that has been rejected by the FG.
-
-  FG members must only contribute to FGs content that is not protected by patents or is not likely to have essential claims made against it. Contributions MUST only come from Members who have signed the CLA.
+  FG participants MUST agree to the Intellectual Property terms by signing the FOCUS Membership Agreement or Non-Member Feedback Agreement.
 
 ### 2.3.2 FOCUS Group Maintainer
   
@@ -387,7 +371,7 @@ If a contribution receives an objection the group MUST resolve the issue, with t
 ### 6.1.2 Approval Criteria
 
 A contribution is considered approved and therefore it can be merged if:
-The contribution has not received any sustainable objection during the review period, AND At least 3 reviewers have indicated that they agree with the contribution
+The contribution has not received any sustained objection during the review period, AND At least 3 reviewers have indicated that they agree with the contribution.
 
 If a sustained objection is received, the contribution cannot be merged, even if 3 or more contributors agreed with the contribution.
 
